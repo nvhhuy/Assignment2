@@ -1,0 +1,51 @@
+﻿<Window x:Class="HuynhPhucTanWPF.BookingPopup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Booking Reservation"
+        Height="350" Width="450"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="#FAFAFA">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="140"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Booking Date -->
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="Booking Date:" VerticalAlignment="Center" Margin="0,5"/>
+            <DatePicker Grid.Row="0" Grid.Column="1" x:Name="dpBookingDate" Margin="0,5" Padding="5"/>
+
+            <!-- Total Price -->
+            <TextBlock Grid.Row="1" Grid.Column="0" Text="Total Price:" VerticalAlignment="Center" Margin="0,5"/>
+            <TextBox Grid.Row="1" Grid.Column="1" x:Name="txtTotalPrice" Margin="0,5" Padding="5"/>
+
+            <!-- Customer ID -->
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="Customer ID:" VerticalAlignment="Center" Margin="0,5"/>
+            <TextBox Grid.Row="2" Grid.Column="1" x:Name="txtCustomerId" Margin="0,5" Padding="5"/>
+
+            <!-- Booking Status -->
+            <TextBlock Grid.Row="3" Grid.Column="0" Text="Booking Status (0/1):" VerticalAlignment="Center" Margin="0,5"/>
+            <TextBox Grid.Row="3" Grid.Column="1" x:Name="txtBookingStatus" Margin="0,5" Padding="5" Text="1"/>
+        </Grid>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Save" Width="90" Margin="5" Click="BtnSave_Click" Background="#4CAF50" Foreground="White" FontWeight="Bold"/>
+            <Button Content="Cancel" Width="90" Margin="5" Click="BtnCancel_Click" Background="#F44336" Foreground="White" FontWeight="Bold"/>
+        </StackPanel>
+    </Grid>
+</Window>
