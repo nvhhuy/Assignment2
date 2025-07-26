@@ -13,3 +13,19 @@ D:\DotNet\Test\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAcce
 D:\DotNet\Test\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
 D:\DotNet\Test\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 D:\DotNet\Test\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\hoc\SUMMER 2025\PRN212\HuynhPhucTan_PRN212_A02\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
